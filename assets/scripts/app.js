@@ -145,7 +145,40 @@
 
 // const message = “Hello”;
 
-const hobbies = ["Sports", "Cooking"];
+//const hobbies = ["Sports", "Cooking"];
 // hobbies = [];
-hobbies.push("Working");
-console.log(hobbies);
+//hobbies.push("Working");
+//console.log(hobbies);
+
+//const user = {
+//    name: "Kit",
+//    age: 40
+//};
+
+// SPREAD OPERATOR: Pulls out array values & adds them to a new array as individual entries.
+//const newHobbies = ["Swimming"];
+//const mergedHobbies = [...hobbies, ...newHobbies];
+//console.log(mergedHobbies);
+//
+//const extendedUser = {
+//    isAdmin: true,
+//    ...user
+//};
+//console.log(extendedUser);
+
+//const password = prompt('Your password?');
+//
+//if (password === "Hello"| password === "hello") {
+//    console.log("Hello works.")
+//} else if (password === "ello"| password === "Ello"| password === "'Ello"| password === "'ello") {
+//    console.log("'Ello also works.")
+//} else {
+//    console.log("That doesn't work.")
+//};
+
+//const hobbies = ["Cooking", "Reading", "Gaming"];
+//
+//for (const hobby of hobbies) {
+//    console.log(hobby);
+//};
+
